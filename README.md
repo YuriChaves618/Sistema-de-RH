@@ -67,6 +67,6 @@ O projeto utiliza uma conexão JDBC com o banco projeto_final.
 
 Antes de executar, confira o usuário, senha e porta do MySQL no arquivo ConexaoBanco.java.
 
- Não coloque senhas reais diretamente em um repositório público.
+* **Não coloque senhas reais diretamente em um repositório público.**
 
 
