@@ -67,15 +67,6 @@ O projeto utiliza uma conexão JDBC com o banco projeto_final.
 
 Antes de executar, confira o usuário, senha e porta do MySQL no arquivo ConexaoBanco.java.
 
-⚠️ Não coloque senhas reais diretamente em um repositório público.
+ Não coloque senhas reais diretamente em um repositório público.
 
-▶️ Como executar
-NetBeans
-📥 Baixe ou clone o projeto.
-🧰 Abra o Apache NetBeans.
-📂 Selecione File → Open Project.
-📁 Abra a pasta projetoFinal.
-🔌 Configure o MySQL Connector/J.
-🗄️ Crie o banco seguindo a seção acima.
-▶️ Execute o projeto.
-🚀 A classe principal é projetofinal.ProjetoFinal.
+
